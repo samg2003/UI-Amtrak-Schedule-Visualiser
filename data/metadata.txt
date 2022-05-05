@@ -1,0 +1,7 @@
+The data that is in this folder was first extracted from this website (https://hifld-geoplatform.opendata.arcgis.com/datasets/amtrak-stations/explore?location=39.528931%2C-90.323756%2C5.00)
+
+We did not get the coordiantes from this but we were able to put the addresses into google sheets and format them to be used in conversion with coordiantes.
+
+We then used a tool to convert all of the addresses into coordinates that appear in the file in the folder (train_data.csv).
+
+After all of this, we have a list of all of the Amtrack train stations in the US that can be used with their coordiantes and find their connecting stations.

@@ -1,0 +1,8 @@
+numpy 
+pandas
+PyQt5
+Pillow
+geopy
+difflib
+pgeocode
+matplotlib

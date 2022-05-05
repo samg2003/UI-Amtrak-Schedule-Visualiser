@@ -1,0 +1,15 @@
+How to set up GIT
+- create a folder where you want to work in
+- go to that folder using cd in terminal
+- type following commands
+    - git init
+    - git branch -M main
+    - git remote add origin https://github.com/CS222SP22/course-project-yz-b.git
+    - git pull origin main
+After this you should able to see all files
+
+How to submit files on Git.
+- git pull origin main
+- git add .
+- git commit -m "message about your commit"
+- git push origin main 
